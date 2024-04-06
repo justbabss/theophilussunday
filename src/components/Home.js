@@ -30,7 +30,7 @@ const Home = () => {
        </div>
       </div>
 
-      <div className=' my-auto mt-[1rem]'>
+      <div className=' hidden sm:flex sm:my-auto sm:mt-[1rem] '>
       <img
           className='w-[300px] sm:w-[812px] mx-auto h-auto'
           src={profilepic}
